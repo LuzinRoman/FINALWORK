@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\GeekBrains\FW\TASK\bin\Debug\net6.0\TASK.exe
+C:\Users\Роман\Desktop\GeekBrains\FW\TASK\bin\Debug\net6.0\TASK.deps.json
+C:\Users\Роман\Desktop\GeekBrains\FW\TASK\bin\Debug\net6.0\TASK.runtimeconfig.json
+C:\Users\Роман\Desktop\GeekBrains\FW\TASK\bin\Debug\net6.0\TASK.dll
+C:\Users\Роман\Desktop\GeekBrains\FW\TASK\bin\Debug\net6.0\TASK.pdb
+C:\Users\Роман\Desktop\GeekBrains\FW\TASK\obj\Debug\net6.0\TASK.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\GeekBrains\FW\TASK\obj\Debug\net6.0\TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\GeekBrains\FW\TASK\obj\Debug\net6.0\TASK.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\GeekBrains\FW\TASK\obj\Debug\net6.0\TASK.AssemblyInfo.cs
+C:\Users\Роман\Desktop\GeekBrains\FW\TASK\obj\Debug\net6.0\TASK.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\GeekBrains\FW\TASK\obj\Debug\net6.0\TASK.dll
+C:\Users\Роман\Desktop\GeekBrains\FW\TASK\obj\Debug\net6.0\refint\TASK.dll
+C:\Users\Роман\Desktop\GeekBrains\FW\TASK\obj\Debug\net6.0\TASK.pdb
+C:\Users\Роман\Desktop\GeekBrains\FW\TASK\obj\Debug\net6.0\TASK.genruntimeconfig.cache
+C:\Users\Роман\Desktop\GeekBrains\FW\TASK\obj\Debug\net6.0\ref\TASK.dll
